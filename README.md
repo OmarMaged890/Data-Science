@@ -1,6 +1,4 @@
-# Data-Science
 # projects in data science 
-# Description
 # The project uses a variety of data science techniques, including:
 - Data Collection: Description of the dataset used, source, and type (structured or unstructured).
 - Data Preprocessing: Steps taken to clean and prepare the data for analysis.
